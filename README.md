@@ -17,4 +17,4 @@ The notebooks are to be found in `/Notebooks`:
 `project_6_moosic_experimental_stage.ipynb` is the one to try different things out on the 5000 song dataset.
 `project_6_moosic_consolidated.ipynb` is the one holding all the code for the propject
 
-The final conclusion and the presentation can be found in `/Presentation`
+The final conclusion and the presentation can be found in `/Presentation`.
